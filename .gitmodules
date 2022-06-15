@@ -3,3 +3,48 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "prettydoc"]
+	path = prettydoc
+	url = https://github.com/yixuan/prettydoc
+	shallow = true
+	registered = true
+[submodule "R2SWF"]
+	path = R2SWF
+	url = https://github.com/yixuan/r2swf
+	shallow = true
+	registered = true
+[submodule "rARPACK"]
+	path = rARPACK
+	url = https://github.com/yixuan/rarpack
+	shallow = true
+	registered = true
+[submodule "rationalfun"]
+	path = rationalfun
+	url = https://github.com/yixuan/rationalfun
+	shallow = true
+	registered = true
+[submodule "RcppNumerical"]
+	path = RcppNumerical
+	url = https://github.com/yixuan/rcppnumerical
+	shallow = true
+	registered = true
+[submodule "recosystem"]
+	path = recosystem
+	url = https://github.com/yixuan/recosystem
+	shallow = true
+	registered = true
+[submodule "RSpectra"]
+	path = RSpectra
+	url = https://github.com/yixuan/rspectra
+	shallow = true
+	registered = true
+[submodule "showtext"]
+	path = showtext
+	url = https://github.com/yixuan/showtext
+	shallow = true
+	registered = true
+[submodule "sysfonts"]
+	path = sysfonts
+	url = https://github.com/yixuan/sysfonts
+	shallow = true
+	registered = true
