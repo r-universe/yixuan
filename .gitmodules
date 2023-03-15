@@ -3,6 +3,11 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "markerpen"]
+	path = markerpen
+	url = https://github.com/yixuan/markerpen
+	shallow = true
+	registered = true
 [submodule "prettydoc"]
 	path = prettydoc
 	url = https://github.com/yixuan/prettydoc
@@ -41,6 +46,11 @@
 [submodule "showtext"]
 	path = showtext
 	url = https://github.com/yixuan/showtext
+	shallow = true
+	registered = true
+[submodule "showtextdb"]
+	path = showtextdb
+	url = https://github.com/yixuan/showtextdb
 	shallow = true
 	registered = true
 [submodule "sysfonts"]

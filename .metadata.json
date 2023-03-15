@@ -1,5 +1,9 @@
 [
   {
+    "package": "markerpen",
+    "oncran": true
+  },
+  {
     "package": "prettydoc",
     "oncran": true
   },
@@ -29,6 +33,10 @@
   },
   {
     "package": "showtext",
+    "oncran": true
+  },
+  {
+    "package": "showtextdb",
     "oncran": true
   },
   {
