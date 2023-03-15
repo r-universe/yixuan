@@ -1,5 +1,13 @@
 [
   {
+    "package": "recosystem",
+    "oncran": true
+  },
+  {
+    "package": "showtext",
+    "oncran": true
+  },
+  {
     "package": "prettydoc",
     "oncran": true
   },
@@ -8,19 +16,7 @@
     "oncran": true
   },
   {
-    "package": "rARPACK",
-    "oncran": true
-  },
-  {
     "package": "rationalfun",
-    "oncran": true
-  },
-  {
-    "package": "RcppNumerical",
-    "oncran": true
-  },
-  {
-    "package": "recosystem",
     "oncran": true
   },
   {
@@ -28,11 +24,15 @@
     "oncran": true
   },
   {
-    "package": "showtext",
+    "package": "sysfonts",
     "oncran": true
   },
   {
-    "package": "sysfonts",
+    "package": "RcppNumerical",
+    "oncran": true
+  },
+  {
+    "package": "rARPACK",
     "oncran": true
   }
 ]
