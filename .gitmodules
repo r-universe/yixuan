@@ -2,30 +2,30 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "R2SWF"]
+	path = R2SWF
+	url = https://github.com/yixuan/r2swf
+[submodule "RSpectra"]
+	path = RSpectra
+	url = https://github.com/yixuan/rspectra
+[submodule "RcppNumerical"]
+	path = RcppNumerical
+	url = https://github.com/yixuan/rcppnumerical
 [submodule "markerpen"]
 	path = markerpen
 	url = https://github.com/yixuan/markerpen
 [submodule "prettydoc"]
 	path = prettydoc
 	url = https://github.com/yixuan/prettydoc
-[submodule "R2SWF"]
-	path = R2SWF
-	url = https://github.com/yixuan/r2swf
 [submodule "rARPACK"]
 	path = rARPACK
 	url = https://github.com/yixuan/rarpack
 [submodule "rationalfun"]
 	path = rationalfun
 	url = https://github.com/yixuan/rationalfun
-[submodule "RcppNumerical"]
-	path = RcppNumerical
-	url = https://github.com/yixuan/rcppnumerical
 [submodule "recosystem"]
 	path = recosystem
 	url = https://github.com/yixuan/recosystem
-[submodule "RSpectra"]
-	path = RSpectra
-	url = https://github.com/yixuan/rspectra
 [submodule "showtext"]
 	path = showtext
 	url = https://github.com/yixuan/showtext
