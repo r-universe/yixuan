@@ -2,9 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "R2SWF"]
-	path = R2SWF
-	url = https://github.com/yixuan/r2swf
 [submodule "RSpectra"]
 	path = RSpectra
 	url = https://github.com/yixuan/rspectra
